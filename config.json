@@ -1,0 +1,7 @@
+{
+    "blog": {
+        "path": ".",
+        "author": "IML2U",
+        "date-format": "%d-%m-%Y"
+    }
+}
